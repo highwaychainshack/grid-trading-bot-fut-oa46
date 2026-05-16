@@ -1,4 +1,4 @@
-# 
+# smart leverage trading bot Tool | take-profit + latency-optimization offers the most advanced leverage trading bot, with take-profit and latency-optimization. Ideal for
 
 
 
